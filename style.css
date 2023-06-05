@@ -1,0 +1,86 @@
+html{
+    background-color: #555555;
+  }
+  #title{
+    color: 255, 36, 0;
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    
+  }
+ 
+  
+  .titled{
+    padding:10px;
+  }
+  .titleimgd{ 
+    margin-top: 0%;
+  }
+ 
+  #titleimg{
+    width: 100%;
+  }
+.motqd{
+    margin-top: 10px;
+    border: 10px solid #B8B8B8;
+    text-align: center;
+    font-size: 50px;
+}
+#motq{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+}
+.firstmotd{
+    margin-top: 100px;
+}
+#firstmot{
+    text-align: center;
+    color: azure;
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+#firstmotimg{
+  height: 460px;
+  width: 700px;
+   
+    
+}
+#firstmotd2{
+   border:5px solid;
+   padding-left: 22;
+   width:700px;
+   height: 460px;
+   margin-left: 30%;
+   
+    
+}
+#firstmotd3{
+    margin-top: 25px;
+    margin-left: 30%;
+    width: 45%;
+    height: 200px;
+    
+}
+#firstmotp{
+    font-size: 30px;
+    color: #909090;
+}
+#motlink{
+ 
+  font-size:30px;
+  font-family:'Segoe UI, Tahoma, Geneva, Verdana, sans-serif';
+  
+
+  color: azure;
+  padding-left: 0%;
+}
+#motlinkd{
+  background-color: black;
+  height: 50px;
+  width: 350px;
+  border: 5px solid;
+  margin-left: 30%;
+  margin-top : 100px;
+  padding: 10px 2px 10px 60px;
+  
+}
